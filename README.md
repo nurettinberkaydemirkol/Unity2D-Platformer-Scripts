@@ -13,13 +13,13 @@
 
 ## Made by Berkay Demirkol - [BOEStudios][boe] 
 - You can download my games from __here__[boe]
-- __About Me__[me]
-- __Online Code Editor__[onlineide]
+- __About Me[me]__
+- __Online Code Editor[onlineide]__
 - FREE TO USE!
 
 ## For Collaboration/Hire
-- My __Instagram__[instagram]
-- My __Upwork__[upwork]
+- My __Instagram[instagram]__
+- My __Upwork[upwork]__
 
 
 
