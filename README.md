@@ -12,14 +12,14 @@
 - __ENJOY!__
 
 ## Made by Berkay Demirkol - [BOEStudios][boe] 
-- You can download my games from __here__[boe]
-- __About Me[me]__
-- __Online Code Editor[onlineide]__
+- You can download my games from __[here][boe]__
+- __[About Me][me]__
+- __[Online Code Editor][onlineide]__
 - FREE TO USE!
 
 ## For Collaboration/Hire
-- My __Instagram[instagram]__
-- My __Upwork[upwork]__
+- My __[Instagram][instagram]__
+- My __[Upwork][upwork]__
 
 
 
