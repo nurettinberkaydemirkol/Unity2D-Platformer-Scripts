@@ -24,8 +24,8 @@
 
 
 
-[boe][https://play.google.com/store/apps/dev?id=7683105670624146264&hl=tr&gl=US]
-[me][https://github.com/berkaydmrkl]
-[onlineide][https://kodcul.com]
-[instagram][https://www.instagram.com/dmrklberkay/]
-[upwork][https://www.upwork.com/o/profiles/users/~012e5e843783e57319/?s=996364627857502208]
+[boe]:https://play.google.com/store/apps/dev?id=7683105670624146264&hl=tr&gl=US
+[me]:https://github.com/berkaydmrkl
+[onlineide]:https://kodcul.com
+[instagram]:https://www.instagram.com/dmrklberkay/
+[upwork]:https://www.upwork.com/o/profiles/users/~012e5e843783e57319/?s=996364627857502208
