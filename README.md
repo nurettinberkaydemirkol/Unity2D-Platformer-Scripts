@@ -11,7 +11,7 @@
 - Change values
 - __ENJOY!__
 
-## Made by Berkay Demirkol - [BOEStudios][boe] 
+## Made by Berkay Demirkol
 - You can download my games from __[here][boe]__
 - __[About Me][me]__
 - __[Online Code Editor][onlineide]__
@@ -23,8 +23,6 @@
 
 
 
-
-[boe]:https://play.google.com/store/apps/dev?id=7683105670624146264&hl=tr&gl=US
 [me]:https://github.com/berkaydmrkl
 [onlineide]:https://kodcul.com
 [instagram]:https://www.instagram.com/dmrklberkay/
